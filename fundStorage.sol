@@ -12,6 +12,6 @@ contract simpleStorage {
         string name;
     }
 
-    // Defining a variable of type User
+    // Defining an array of type User
     User[] public users;
 }
